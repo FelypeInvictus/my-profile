@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+canvas {
+  display: flex;
+}
+
+#particle-efect {
+  position: relative;
+  /*z-index: 1;*/
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  background-image: url("https://media4.giphy.com/media/xTiTnBFk0CCq29UdQA/giphy.gif?cid=6c09b952jrhoccxkbpwednx7b88f2l6uum8lnekly0aguzss&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g");
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+  /*background-position: 100% 100%;*/
+}
+
+/* Image by Patrick Fore on Unsplash */
+

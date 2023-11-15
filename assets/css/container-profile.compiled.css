@@ -1,0 +1,7 @@
+.container-profile {
+  position: relative;
+  z-index: 2;
+  color: white;
+  /*text-align: center;*/
+  /*line-height: 100vh;*/
+}

@@ -1,0 +1,23 @@
+:root, [data-bs-theme=light] {
+  --bs-link-color: #ffc107;
+  --bs-link-color-rgb: 255,193,7;
+  --bs-link-hover-color: #ffc107;
+  --bs-link-hover-color-rgb: 255,193,7;
+  --bs-link-decoration: blink;
+  --bs-focus-ring-color: rgba(3,3,3,0.25);
+}
+
+[data-bs-theme=dark] {
+  --bs-body-color: #000000;
+  --bs-body-color-rgb: 0,0,0;
+  --bs-secondary-color: rgba(0,0,0,0.75);
+  --bs-secondary-color-rgb: 0,0,0,0.75;
+  --bs-tertiary-color: rgba(0,0,0,0.5);
+  --bs-tertiary-color-rgb: 0,0,0,0.5;
+  --bs-link-color: #000000;
+  --bs-link-color-rgb: 0,0,0;
+  --bs-link-hover-color: #000000;
+  --bs-link-hover-color-rgb: 0,0,0;
+  --bs-border-style: none;
+}
+
